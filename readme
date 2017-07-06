@@ -7,3 +7,4 @@ append tail
 stage!!!
 test modified in new branch
 new line from master and feature1
+merge --no--fast forward
